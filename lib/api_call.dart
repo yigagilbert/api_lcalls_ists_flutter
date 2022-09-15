@@ -36,4 +36,3 @@ Future<List<Users>> getUsers() async {
     throw Exception('Failed to load post');
   }
 }
-
