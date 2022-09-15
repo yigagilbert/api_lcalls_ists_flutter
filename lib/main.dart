@@ -137,7 +137,7 @@ class _MyAppState extends State<MyApp> {
 
 //             // Display the data loaded from sample.json
 //             _items.isNotEmpty
-//                 ? Expanded(
+//  /               ? Expanded(
 //                     child: ListView.builder(
 //                       itemCount: _items.length,
 //                       itemBuilder: (context, index) {
